@@ -13,4 +13,4 @@ published: false
 ```
 
 ## Server Execution
-powershell $\rightarrow$ bundle exec jeykll serve
+powershell $\rightarrow$ bundle exec jekyll serve
